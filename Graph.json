@@ -1,0 +1,1800 @@
+
+	{
+		"uuid": "767ef00d-16df-4f3b-b21b-2daa0bfcffe7",
+		"Object Name": "Name 1",
+		"Object Type": "Type 1",
+		"Internal objects": [
+			{
+				"uuid": "66555aa6-b2a3-47f3-b2ab-087f052ac6cd",
+				"Object Name": "Name 1.1",
+				"Object Type": "Type 2",
+				"Internal objects": [
+					{
+						"uuid": "cd2674d5-fe63-40eb-b3ef-1492b0948281",
+						"Object Name": "Name 1.1.1",
+						"Object Type": "Type 3",
+						"Internal objects": [
+							{
+								"uuid": "4ac750cd-ad3f-43cf-8a64-2fbf6b0594e3",
+								"Object Name": "Name 1.1.1.1",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "cfc2e9bd-bdf8-4112-afc7-2b0464af1db9",
+										"Object Name": "Name 1.1.1.1.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [
+													"Dog",
+													"Cat"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "06-28",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "f11ede25-ab78-4c33-9fa4-ea9237e08c77",
+										"Object Name": "Name 1.1.1.1.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [
+													"Dog",
+													"Cat"
+												],
+												"Info 1.3": [
+													"Turtle"
+												]
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "06-28",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "eff23d46-0489-4d78-9662-514d58c2fb70",
+										"Object Name": "Name 1.1.1.1.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 2",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "d5df4218-051b-46ca-980f-2b71d5d806a9",
+										"Object Name": "Name 1.1.1.1.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 3",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "ad25c21c-3a63-4075-acfb-e73dd8c999d1",
+										"Object Name": "Name 1.1.1.1.5",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 3",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "23e0a89d-0eaa-4430-80bc-3c9418cc19f5",
+										"Object Name": "Name 1.1.1.1.6",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 3",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "9c5219e4-187a-4013-a1c8-d8c6fb95a64b",
+										"Object Name": "Name 1.1.1.1.7",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 3",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "9406871c-8a8e-4f2a-8d49-d87af6c33a3f",
+										"Object Name": "Name 1.1.1.1.8",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Dog",
+												"Info 1.2": [
+													"Cat"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "e41eb168-bda6-476f-b629-5fbe8838ec96",
+								"Object Name": "Name 1.1.1.2",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "8c442575-ef7e-4e74-883c-5fb4ae4e953c",
+										"Object Name": "Name 1.1.1.2.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Tiger",
+												"Info 1.2": [
+													"Tiger",
+													"Lion"
+												],
+												"Info 1.3": [
+													"Turtle"
+												]
+											},
+											"Info 2": {
+												"Info 2.1": "Status 4",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "04-14",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "ebae1d8a-0c99-41f6-866f-8c3dfef907fc",
+										"Object Name": "Name 1.1.1.2.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 2",
+											"Info 1": {
+												"Info 1.1": "Lion",
+												"Info 1.2": [
+													"Lion"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "07-26",
+												"Info 3.2": "",
+												"Info 3.3": "08-20",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "4805915d-c02d-4f59-a9c1-018bf16a1798",
+										"Object Name": "Name 1.1.1.2.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 6",
+											"Info 1": {
+												"Info 1.1": "",
+												"Info 1.2": [],
+												"Info 1.3": [
+													"Turtle"
+												]
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "679f3c57-666e-4420-b11a-329e4d3075a7",
+										"Object Name": "Name 1.1.1.2.4",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 6",
+											"Info 1": {
+												"Info 1.1": "Tiger",
+												"Info 1.2": [
+													"Tiger"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "03-15",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "208a7bfb-46e3-42fa-9768-1fb366a939b8",
+										"Object Name": "Name 1.1.1.2.5",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Tiger",
+												"Info 1.2": [
+													"Tiger"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 4",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2021-11-29",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "3b5f571a-0876-415e-8707-ad8555963423",
+								"Object Name": "Name 1.1.1.3",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "2cb8097e-157a-4fdd-bf77-2bb14d393b85",
+										"Object Name": "Name 1.1.1.3.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Monkey",
+												"Info 1.2": [
+													"Monkey"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2018-01-01",
+												"Info 3.3": "07-01",
+												"Info 3.4": "07-31"
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "f2d7133e-e4f3-4ee1-b9ef-d743b270fae2",
+										"Object Name": "Name 1.1.1.3.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Monkey",
+												"Info 1.2": [
+													"Monkey"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2018-01-01",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "299619b7-a255-4e96-8f0f-adb98b52c342",
+										"Object Name": "",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 3",
+											"Info 1": {
+												"Info 1.1": "Monkey",
+												"Info 1.2": [
+													"Monkey"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "032851c5-1b69-41d9-8e9a-d6c58aa04426",
+								"Object Name": "Name 1.1.1.4",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "0796f87f-f87a-4970-abd5-8285e6479d94",
+										"Object Name": "Name 1.1.1.4.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Bird",
+												"Info 1.2": [
+													"Bird"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 4",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "460fcef9-0da8-48f6-997e-4c4c4525a5ed",
+										"Object Name": "Name 1.1.1.4.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Bird",
+												"Info 1.2": [
+													"Bird"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 4",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "eb435d47-2390-4de0-834c-9b7335323c8a",
+										"Object Name": "Name 1.1.1.4.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 2",
+											"Info 1": {
+												"Info 1.1": "Bird",
+												"Info 1.2": [
+													"Bird"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 4",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "d155719b-b476-4411-9e1b-c898a6cbef60",
+										"Object Name": "Name 1.1.1.4.4",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 2",
+											"Info 1": {
+												"Info 1.1": "",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "2021-08-03",
+												"Info 3.2": "07-25",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "a7f98640-c78a-4b4e-8383-be8a8c51fee5",
+								"Object Name": "Name 1.1.1.5",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "ca467c09-42fa-4448-bbb2-673c55d3384b",
+										"Object Name": "Name 1.1.1.5.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Bird",
+												"Info 1.2": [
+													"Bird"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "-",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "06-16",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "b0c954a7-5121-4852-baf6-31c7f8305e9f",
+										"Object Name": "Name 1.1.1.5.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 3",
+											"Info 1": {
+												"Info 1.1": "",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "68cdd327-c555-41ab-b106-b89803678a1b",
+								"Object Name": "Name 1.1.1.6",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Cat",
+										"Info 1.2": [
+											"Cat"
+										],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "Status 4",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "2021-02-02",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "b129028a-4210-47b4-925d-7c01676c9668",
+								"Object Name": "Name 1.1.1.7",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 5",
+									"Info 1": {
+										"Info 1.1": "Dog",
+										"Info 1.2": [
+											"Dog"
+										],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "Status 4",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "2021-04-09",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "7401140f-6dbe-4703-9567-379d98eb7a35",
+								"Object Name": "Name 1.1.1.8",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Lion",
+										"Info 1.2": [
+											"Lion"
+										],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "Status 8",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "07-25",
+										"Info 3.2": "07-27",
+										"Info 3.3": "07-26",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							}
+						]
+					},
+					{
+						"uuid": "2de89acd-b7c9-400f-9fb3-f6284b0147fe",
+						"Object Name": "Name 1.1.2",
+						"Object Type": "Type 3",
+						"Internal objects": [
+							{
+								"uuid": "5948a953-c9d5-4e75-98eb-514e5437257f",
+								"Object Name": "Name 1.1.2.1",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Lion",
+										"Info 1.2": [
+											"Lion"
+										],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "Status 4",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "2021-11-25",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "d166dbf8-4fb7-49b7-9ed3-f06e173b262c",
+								"Object Name": "Name 1.1.2.2",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Badger",
+										"Info 1.2": [
+											"Badger",
+											"Bird"
+										],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "Status 4",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "04-28",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "87383554-19b2-4a29-aa74-2770cf108d6c",
+								"Object Name": "Name 1.1.2.3",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 2",
+									"Info 1": {
+										"Info 1.1": "Sneak",
+										"Info 1.2": [
+											"Sneak"
+										],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "Status 7",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "1c295b0a-1544-49b4-b02f-617a584872d1",
+								"Object Name": "Name 1.1.2.4",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 6",
+									"Info 1": {
+										"Info 1.1": "",
+										"Info 1.2": [],
+										"Info 1.3": []
+									},
+									"Info 2": {
+										"Info 2.1": "",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "04-14",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "b04437d6-748e-41cc-a5d5-1f5fe8d37a0c",
+								"Object Name": "Name 1.1.2.5",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "e7b3a36b-e29e-4993-865f-fdd453822e9e",
+										"Object Name": "Name 1.1.2.5.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 6",
+											"Info 1": {
+												"Info 1.1": "",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "200c1469-3a9f-4486-a8cb-f0369bbe4a68",
+								"Object Name": "Name 1.1.2.6",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "72db7846-1c12-416b-8b9d-00cc4ba3c31c",
+										"Object Name": "Name 1.1.2.6.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Badger",
+												"Info 1.2": [
+													"Badger",
+													"Bird"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2021-03-03",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "129dcee6-b899-4721-b89e-cc5d504ffcd5",
+										"Object Name": "Name 1.1.2.6.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Badger",
+												"Info 1.2": [
+													"Badger"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "03-09",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "85a8c3ad-aab7-48bf-9a92-956a2b2939a9",
+										"Object Name": "Name 1.1.2.6.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Badger",
+												"Info 1.2": [
+													"Badger"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "05-01",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "2e8450cd-f0c8-4819-9902-615c2ffc35b1",
+										"Object Name": "Name 1.1.2.6.4",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Badger",
+												"Info 1.2": [
+													"Badger"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 8",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "06-28",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "0f713cf7-2051-40ac-8ce0-cd877aad8ee4",
+										"Object Name": "Name 1.1.2.6.5",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Badger",
+												"Info 1.2": [
+													"Badger"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "Status 4",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "07-13",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "b1596951-63a1-40f7-bbcf-e0f2bdc64980",
+										"Object Name": "Name 1.1.2.6.6",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 2",
+											"Info 1": {
+												"Info 1.1": "",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "bcef70e3-c714-41c2-bea5-ad551e5220d3",
+										"Object Name": "Name 1.1.2.6.7",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 2",
+											"Info 1": {
+												"Info 1.1": "",
+												"Info 1.2": [],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"uuid": "a3bba8dd-a320-4356-bd0a-0e1236ad4318",
+						"Object Name": "Name 1.1.3",
+						"Object Type": "Type 3",
+						"Internal objects": [
+							{
+								"uuid": "5b29c14a-bfee-438d-8257-1c370fdc2d40",
+								"Object Name": "Name 1.1.3.1",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "0ab126fb-d98d-4ab6-a341-ada0ca6cab22",
+										"Object Name": "Name 1.1.3.1.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2021-09-17",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "d55f40ad-b604-4cf0-9a74-3e54e4111e54",
+										"Object Name": "Name 1.1.3.1.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2021-01-28",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "324a9378-5444-447a-b7af-dad6b78281be",
+										"Object Name": "Name 1.1.3.1.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 5",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "02-08",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "b252ff71-07ce-47cf-b255-d3eba36366a7",
+										"Object Name": "Name 1.1.3.1.4",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 6",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "01-22",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "b8b912aa-2434-48f8-b3f3-1569a3907d8d",
+										"Object Name": "Name 1.1.3.1.5",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Rat",
+												"Info 1.2": [
+													"Rat"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "07-25",
+												"Info 3.2": "07-25",
+												"Info 3.3": "07-25",
+												"Info 3.4": "07-20"
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							},
+							{
+								"uuid": "8fe7e0d9-b2c6-4729-9b57-894218aa3602",
+								"Object Name": "Name 1.1.3.2",
+								"Object Type": "Type 4",
+								"Internal objects": [
+									{
+										"uuid": "3afd3fd0-8d5d-4c9f-9b0e-7a873215646a",
+										"Object Name": "Name 1.1.3.2.1",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2020-10-09",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "78ad236e-317c-4d21-815b-75bdd62e22b4",
+										"Object Name": "Name 1.1.3.2.2",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "2020-10-23",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									},
+									{
+										"uuid": "96003933-1697-4c7d-b871-8e9223a04f5f",
+										"Object Name": "Name 1.1.3.2.3",
+										"Object Type": "Type 5",
+										"Profile": {
+											"Status": "Status 1",
+											"Info 1": {
+												"Info 1.1": "Prarie dog",
+												"Info 1.2": [
+													"Prarie dog"
+												],
+												"Info 1.3": []
+											},
+											"Info 2": {
+												"Info 2.1": "",
+												"Info 2.2": {
+													"Path 1": "",
+													"Path 2": "",
+													"Path 3": ""
+												}
+											},
+											"Info 3": {
+												"Info 3.1": "",
+												"Info 3.2": "04-25",
+												"Info 3.3": "",
+												"Info 3.4": ""
+											},
+											"Info 4": {
+												"Info 4.1": [],
+												"Info 4.2": []
+											},
+											"Info 5": []
+										},
+										"Internal objects": []
+									}
+								]
+							}
+						]
+					},
+					{
+						"uuid": "81d553c1-a40e-4941-9dcb-db9a4b870973",
+						"Object Name": "Name 1.1.4",
+						"Object Type": "Type 3",
+						"Internal objects": [
+							{
+								"uuid": "1668f2c7-a7bc-4df5-9198-e959d1dedcad",
+								"Object Name": "Name 1.1.4.1",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Fish",
+										"Info 1.2": [
+											"Prarie dog",
+											"Fish",
+											"Mouse"
+										],
+										"Info 1.3": [
+											"Frog"
+										]
+									},
+									"Info 2": {
+										"Info 2.1": "Status 8",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "2020-10-01",
+										"Info 3.2": "2020-10-01",
+										"Info 3.3": "2020-10-01",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "f307d4ca-6991-4979-8c6f-453c7623c81e",
+								"Object Name": "Name 1.1.4.2",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Fish",
+										"Info 1.2": [
+											"Fish"
+										],
+										"Info 1.3": [
+											"Elephant"
+										]
+									},
+									"Info 2": {
+										"Info 2.1": "Status 4",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "03-17",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							},
+							{
+								"uuid": "5d09adf1-bb81-42ae-ae2f-0c5a26fe4627",
+								"Object Name": "Name 1.1.4.3",
+								"Object Type": "Type 5",
+								"Profile": {
+									"Status": "Status 1",
+									"Info 1": {
+										"Info 1.1": "Fish",
+										"Info 1.2": [
+											"Fish"
+										],
+										"Info 1.3": [
+											"Elephant"
+										]
+									},
+									"Info 2": {
+										"Info 2.1": "",
+										"Info 2.2": {
+											"Path 1": "",
+											"Path 2": "",
+											"Path 3": ""
+										}
+									},
+									"Info 3": {
+										"Info 3.1": "",
+										"Info 3.2": "05-13",
+										"Info 3.3": "",
+										"Info 3.4": ""
+									},
+									"Info 4": {
+										"Info 4.1": [],
+										"Info 4.2": []
+									},
+									"Info 5": []
+								},
+								"Internal objects": []
+							}
+						]
+					},
+					{
+						"uuid": "f69fa3c1-76d6-4f85-8a03-5e66899072d5",
+						"Object Name": "Name 1.1.5",
+						"Object Type": "Type 3",
+						"Internal objects": [
+							{
+								"uuid": "3f49f4d9-b6d8-4d6c-93ba-e5e794045e48",
+								"Object Name": "Name 1.1.5.1",
+								"Object Type": "Type 4",
+								"Internal objects": []
+							},
+							{
+								"uuid": "0fa96515-4669-4915-a3e5-51ecc878621d",
+								"Object Name": "Name 1.1.5.2",
+								"Object Type": "Type 6",
+								"Internal objects": []
+							}
+						]
+					}
+				]
+			}
+		]
+	}
